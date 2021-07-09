@@ -81,10 +81,10 @@ Funcionalidades adicionais:
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/IELSK">
-    <img src="https://avatars.githubusercontent.com/u/48807462?v=4" width="100px" alt="Imagem do perfil de Pedro Rodrigues"/>
+    <td align="center"><a href="https://github.com/peustef">
+    <img src="https://avatars.githubusercontent.com/u/20777850?v=4" width="100px" alt="Imagem do perfil de Pedro Stefani Saldanha"/>
     <br />
-    <sub><b>Pedro Rodrigues</b></sub>
+    <sub><b>Pedro Stefani Saldanha</b></sub>
      
 </table>
 
