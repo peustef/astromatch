@@ -6,75 +6,35 @@
 
 
  ## Sobre
-### 4Food - Restaurantes na porta da sua casa!
-Aplicação de serviço de entregas para restaurantes. Desenvolvida em React.js
+### Astromatch - Encontre seu par perfeito!
+Projeto simulando um app de encontros com a intenção de praticar os hooks useState e useEffect. Desenvolvido ao longo do curso na Labenu utilizando React.js
 
-Projeto desenvolvido em grupo como conclusão do módulo de Frontend do curso de Web Development da escola de programação Labenu.
-
-## Recursos Utilizados
+## Libs Utilizadas
+- React
 - axios
-- react-router-dom
 - styled-components
 - Material UI
-- react-loading-dot
 
-## Design
-https://zpl.io/scene/VDdGEYr
-- Feito por Camila Mizutani
 
 ## Link do Surge
-<a href="https://labe-food2.surge.sh/">https://labe-food2.surge.sh/</a>
-- <b>Login:</b> labefoodteste@gmail.com
-- <b>Senha:</b> 123456
+<a href="https://peu-paiva-astromatch.surge.sh/">https://labe-food2.surge.sh/</a>
+
 
 ## O que funciona
-- Cadastro
-  - Criação de conta, cadastrando dados pessoais e endereço
-  - Mensagem no caso de informação incorreta
-  - Após a finalização do cadastro, redirecionamento para página principal
+- Tela Inicial
+  - Busca um perfil aleatório da API e exibe ao usuário
+  - Usuário decide se quer dar match ou não clicando nos botões 💚 e ❌
+  - Botão no canto direito do cabeçalho para ir até página de matches
 
-- Busca e Seleção
-  - Visualização de lista com todos restaurantes
-  - Filtro de restaurantes por nome na página de buscas
-  - Filtro de restaurantes por categoria na página principal
-  - Visualização do cardápio e detalhes de um restaurante ao clique/toque
+- Página de matches
+  - Exibe uma lista com todos os perfis que o usuário deu match
 
-- Cardápio
-  - Visualização de informações do restaurante: foto, nome, tipo, tempo de entrega, frete, endereço
-  - Visualização dos pratos de um restaurante divididos por categoria
-  - Visualização de detalhes do prato
-  - Capacidade de adicionar os pratos no carrinho e a quantidade de cada um
-  - Capacidade de remover itens do carrinho
-
-- Carrinho e finalização de compra
-  - Visualizção da lista de itens adicionados ao carrinho
-  - Visualização do endereço de entrega no carrinho
-  - Total da compra de acordo com a quantidade e preço dos itens
-  - Seleção de forma de pagamento
-  - Assim que o pedido é feito, é renderizado alguns detalhes do pedido em andamento na página principal
-
-- Perfil
-  - Visualização de dados pessoais e endereço
-  - Edição de dados pessoais e endereço
-  - No caso de informação incorreta na edição, alerta
-  - Histórico de pedidos concluídos
-
-Funcionalidades adicionais:
-
-- Página restaurante
-  - Adição (do layout proposto) de um botão para ir diretamente ao carrinho, reduzindo o percurso que o(a) usuário(a) precisa fazer e desistimulando que ele(a) tente adicionar itens de restaurantes diferentes no carrinho (o que não é possível). 
-  
-- Página carrinho
-  - Adição (do layout proposto) de um botão para voltar ao restaurante e continuar adicionando.
-
-- Página perfil
-  - Adição (do layout proposto) de um botão de logout 
-
-
-## O que não funciona 
-- Nenhum recurso não funcional conhecido
+- Botão limpar matches
+  - Limpa todas informações da API trazendo os perfis de volta e retirando os matches realizados
 
 ## Imagens
+![image](https://user-images.githubusercontent.com/20777850/125097346-69441b80-e0ac-11eb-8c11-c6282c8afbd8.png)
+![image](https://user-images.githubusercontent.com/20777850/125097390-752fdd80-e0ac-11eb-9a44-d0ac6fcd2a4d.png)
 
 
 ## Autor
