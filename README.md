@@ -1,7 +1,7 @@
-# <h1 align='center'> iFuture - 4Food </h1>
+# <h1 align='center'> Astromatch </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48807462/124322810-86319980-db56-11eb-9af8-5b49e574d073.png" alt="4Food">
+  <img src="https://user-images.githubusercontent.com/20777850/125096329-6bf24100-e0ab-11eb-8154-a2080ec14f4c.png" alt="Astromatch">
 </p>
 
 
