@@ -10,7 +10,6 @@
 Projeto simulando um app de encontros com a intenção de praticar os hooks useState e useEffect. Desenvolvido ao longo do curso na Labenu utilizando React.js
 
 ## Libs Utilizadas
-- React
 - axios
 - styled-components
 - Material UI
